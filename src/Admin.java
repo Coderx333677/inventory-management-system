@@ -1,7 +1,7 @@
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-///jvs
+
 class realAdmin extends Admin{
     realAdmin(String name,String password){
         super(name,password);
